@@ -26,7 +26,7 @@ const EditExpense = () => {
   return (
     <div className="w-md mx-auto bg-white rounded-lg p-6 mt-10">
       <h1 className="text-2xl font-bold text-center text-blue-500 mb-6">
-        Edit Expense
+        Expense Tracker
       </h1>
       <Formik
         initialValues={{
